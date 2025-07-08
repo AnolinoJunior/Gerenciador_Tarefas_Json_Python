@@ -25,8 +25,6 @@ Ao desenvolver esse projeto, tive meu primeiro contato com:
 - **Funções em Python**: comecei a entender melhor como organizar o código em funções reutilizáveis.
 - **Manipulação de arquivos**: aprendi a ler e escrever arquivos no disco com `open()`, `json.load()` e `json.dump()`.
 - **PyInstaller**: usei essa ferramenta para transformar meu código em um executável `.exe`.
-- **Atalhos no Windows**: aprendi a criar um atalho para abrir meu programa com ícone personalizado.
-
 ---
 
 ## 💻 Como usar
